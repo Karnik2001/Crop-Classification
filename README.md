@@ -1,10 +1,10 @@
-# Crop Recommendation
+# Crop Classification
 
 Agriculture has been the backbone of human civilization for thousands of years, evolving from basic subsistence farming to a highly sophisticated and technology-driven industry. Over time, advancements in agricultural techniques, tools, and scientific understanding have drastically improved food production, sustainability, and global food security.
 
 In this project, a dataset containing information about crops was analyzed using several biological and environmental factors to develop a machine learning-based crop recommendation system. The dataset consists of 3,100 entries and includes 10 key attributes that play a significant role in determining crop suitability. These attributes include both environmental and soil properties, which influence plant growth, productivity, and overall agricultural sustainability.
 
-## Conclusion: Machine Learning for Crop Recommendations
+## Conclusion: Machine Learning for Classify Crops
 
 The results from this study indicate that machine learning models can provide highly accurate and data-driven crop recommendations based on key environmental and soil factors. The high R-squared values (above 0.97) and low Mean Squared Errors (MSE) demonstrate that the models can explain the variability in crop suitability with minimal prediction errors. Moreover, the classification accuracy of 93.42% further validates the robustness of the approach.
 Key Insights:
