@@ -30,3 +30,8 @@ Key Insights:
 ## Final Thoughts
 
 This study highlights the power of machine learning in transforming traditional agricultural practices by providing accurate, data-driven recommendations for crop selection. By optimizing land use based on precise environmental and soil characteristics, this approach has the potential to enhance food security, increase agricultural productivity, and support sustainable farming practices. Further advancements in AI-driven agronomy can refine these models to be even more adaptive, addressing global agricultural challenges more effectively.
+
+## Citations
+https://www.geeksforgeeks.org/k-nearest-neighbors-with-python-ml/
+https://www.geeksforgeeks.org/ml-xgboost-extreme-gradient-boosting/
+https://www.geeksforgeeks.org/random-forest-regression-in-python/
